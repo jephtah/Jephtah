@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Great to meet you! Want to know about me? Jephtah is a highly motivated software engineer with 5 years of experience, strong critical thinking ability, a hunger to learn, a passion for overcoming challenges, and a laser focus towards creating sustainable solutions that help make the world a better place. An adept team player with clear communication and organizational skills interested in doing meaningful work in a growth-oriented setting.
+Nice to meet you! Want to know about me? Jephtah is a highly motivated software engineer with 5 years of experience, strong critical thinking ability, a hunger to learn, a passion for overcoming challenges, and a laser focus towards creating sustainable solutions that help make the world a better place. An adept team player with clear communication and organizational skills interested in doing meaningful work in a growth-oriented setting.
 
 My interests revolve mainly around Software (web and mobile app) Development and Machine Learning.
 

@@ -23,7 +23,7 @@ I am fascinated with principles such as Scalability, Clean Code, Test Driven Dev
 
 The lists of tools I get involved with as I keep working to become a better enginner grows daily but currently includes:
 
-*Python| JavaScript| Typescript| Node.js| Golang| Reactjs| ReactNative| Django| Express| Beego| Docker| Kubernetes| AWS| MySQL| MONGODB| REDIS| RABBIMQ* 
+**Python| JavaScript| Typescript| Node.js| Golang| Reactjs| ReactNative| Django| Express| Beego| Docker| Kubernetes| AWS| MySQL| MONGODB| REDIS| RABBIMQ 
 
 Need to Reach Me? Shoot me an email 📩
 

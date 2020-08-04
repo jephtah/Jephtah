@@ -27,7 +27,7 @@ The lists of tools I get involved with as I keep working to become a better engi
 
 **Reactjs| ReactNative| Django| Express| Beego**
 
-**Docker| Kubernetes| AWS**
+**Docker| Kubernetes| AWS| TravisCI| CircleCI**
 
 **MySQL| MONGODB| REDIS| RABBIMQ** 
 

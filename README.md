@@ -19,7 +19,7 @@ Nice to meet you! Want to know about me? Jephtah is a highly motivated software 
 
 My interests revolve mainly around Software (web and mobile app) Development and Machine Learning.
 
-I am fascinated with principles such as Scalability, Clean Code, Test Driven Development, Continous Integration, Development, and Delivery
+I am fascinated with principles such as Scalability, Clean Code, Test Driven Development, Automation, Systems Design, AI, Continous Integration, Development, and Delivery
 
 The lists of tools I get involved with as I keep working to become a better enginner grows daily but currently includes:
 

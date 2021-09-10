@@ -10,7 +10,7 @@ Most of my work is centered around causes I feel connected to as they drive me t
 
 The lists of tools I get involved with as I keep working to become a better enginner grows daily but currently includes:
 
-**Java| Node.js| Golang**
+**Java| Typescript | Golang**
 
 **Reactjs| ReactNative| Django| Express| Beego**
 

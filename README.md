@@ -12,7 +12,7 @@ The lists of tools I get involved with as I keep working to become better at my 
 
 **Java| Typescript | Golang**
 
-**Reactjs| ReactNative| Django| Express| Beego**
+**Reactjs| ReactNative| Django| Express| Gin**
 
 **Docker| Kubernetes| TravisCI| CircleCI**
 

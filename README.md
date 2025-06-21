@@ -25,9 +25,6 @@ AWS · GCP
 Data & Messaging:
 MySQL · MongoDB · Redis · Kafka
 
-
-⸻
-
 📫 Reach me anytime: uchejephtah@gmail.com
 
 Always open to meaningful conversations, interesting collaborations, and new challenges.

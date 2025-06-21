@@ -1,25 +1,33 @@
-### Hey there 😄
+Hey there!
 
-Nice to meet you! Want to know about me? Jephtah is a highly motivated software engineer with 7 years of experience, strong critical thinking ability, a hunger to learn, a passion for overcoming challenges, and a laser focus towards creating sustainable solutions that help make the world a better place. An adept team player with clear communication and organizational skills interested in doing meaningful work in a growth-oriented setting.
+Nice to meet you — I’m Jephtah.
 
-My interests revolve mainly around distributed systems and machine learning
+I’m a passionate software engineer with 7+ years of hands-on experience building scalable systems, distributed architectures, and solving complex technical problems. I thrive in fast-moving environments where learning never stops and where technology can be used to create meaningful, lasting impact.
 
-I am fascinated with concepts such as Scalability, Automation, Systems Design, Autonomous Systems, Product Engineering
+My work spans distributed systems, backend engineering, product development, and applied machine learning. I’m deeply curious about how to design resilient, scalable, and autonomous systems that not only work, but thrive under real-world complexity.
 
-Most of my work is centered around causes I feel connected to as they drive me to constantly push the boundaries of my current knowledge base & possibilities
+What motivates me most is working on products and problems I care about — challenges that push me to grow and stretch the boundaries of what I know.
 
-The lists of tools I get involved with as I keep working to become better at my craft grows daily but currently includes:
+🔧 My toolbox keeps growing — currently working with:
 
-**Java| Typescript | Golang**
+Languages:
+Java · TypeScript · Golang
 
-**Reactjs| ReactNative| Django| Express| Gin**
+Frameworks & Libraries:
+React.js · React Native · Django · Express · Gin
 
-**Docker| Kubernetes| TravisCI| CircleCI**
+DevOps & Infrastructure:
+Docker · Kubernetes · TravisCI · CircleCI
 
-**AWS| GCP**
+Cloud Platforms:
+AWS · GCP
 
-**MySQL| MONGODB| REDIS| KAFKA** 
+Data & Messaging:
+MySQL · MongoDB · Redis · Kafka
 
-Need to Reach Me? Shoot me an email 📩
 
-Talk soon
+⸻
+
+📫 Reach me anytime: uchejephtah@gmail.com
+
+Always open to meaningful conversations, interesting collaborations, and new challenges.

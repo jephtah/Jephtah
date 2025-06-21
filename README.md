@@ -1,6 +1,6 @@
 Hey there!
 
-Nice to meet you — I’m Jephtah.
+Nice to meet you - I’m Jephtah.
 
 I’m a passionate software engineer with 7+ years of hands-on experience building scalable systems, distributed architectures, and solving complex technical problems. I thrive in fast-moving environments where learning never stops and where technology can be used to create meaningful, lasting impact.
 
